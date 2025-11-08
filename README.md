@@ -53,23 +53,5 @@ Computer Vision module for detecting emotion, age and gender of a person in any 
 1. Install Python and Jupyter studio
 2. Clone repo, cd into it and open the ```Age, Gender with Emotion.ipynb``` notebook in Jupyter.
 
-## Authors
-### Kaushik Jadhav
-<ul>
-<li>Github: https://github.com/kaushikjadhav01</li>
-<li>Medium: https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn: https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio: http://kajadhav.me/</li>
-<li>Linked In: https://www.linkedin.com/in/kajadhav/
-<li>Dev.to: https://dev.to/kaushikjadhav01
-<li>Codesignal: https://app.codesignal.com/profile/kaushik_j_vtc
-<li>Google Scholar: https://scholar.google.com/citations?user=iRYcFi0AAAAJ
-<li>Daily.dev: https://app.daily.dev/kaushikjadhav01
-<li>Google devs: https://developers.google.com/profile/u/kaushikjadhav01
-<li>Stack Overflow: https://stackoverflow.com/users/21890981/kaushik-jadhav
-</ul>
 
-## Links
-* [Report](https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/Team_4_Proj_C1_Technical_Report.pdf)
-* [Issue tracker](https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/issues)
-* [Source code](https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System)
+
